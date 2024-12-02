@@ -978,6 +978,11 @@ margin: 0.8rem 0 0 0.8rem;
     width: 95%;
 }
 
+.imagem--interna {
+  margin: 1rem auto 0.5rem 0;
+    width: 70%;
+}
+
 .texto--geral {
     color:#707070;
     font-size: 0.8rem;
